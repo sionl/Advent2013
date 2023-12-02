@@ -2,7 +2,7 @@ namespace Day1;
 
 public class Solution : ISolution
 {
-    string[] numbers = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"];
+    private static readonly string[] numbers = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"];
 
     public void Run()
     {
@@ -37,7 +37,10 @@ public class Solution : ISolution
         builder.AppendLine("Calibration Document");
         builder.AppendLine(values.Sum().ToString());
 
-        File.WriteAllText("Day1\\Output.txt", builder.ToString());
+        using (StreamWriter writer = new StreamWriter("Day1\\Output.txt"))
+        {
+            writer.Write(builder.ToString());
+        }
     }
 
     private int? GetNumber(string line, int i)
