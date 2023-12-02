@@ -1,7 +1,3 @@
-using System.Globalization;
-using System.Net.Http.Headers;
-using Microsoft.VisualBasic;
-
 namespace Day1;
 
 public class Solution : ISolution
