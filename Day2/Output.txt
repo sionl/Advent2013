@@ -1,0 +1,103 @@
+Game 1 - has 18 number of green
+Game 2 - is Valid
+Game 3 - has 15 number of reds
+Game 4 - is Valid
+Game 5 - is Valid
+Game 6 - is Valid
+Game 7 - has 14 number of green
+Game 8 - is Valid
+Game 9 - is Valid
+Game 10 - is Valid
+Game 11 - is Valid
+Game 12 - is Valid
+Game 13 - has 16 number of green
+Game 14 - is Valid
+Game 15 - is Valid
+Game 16 - has 16 number of blue
+Game 17 - is Valid
+Game 18 - is Valid
+Game 19 - has 16 number of reds
+Game 20 - has 15 number of green
+Game 21 - has 14 number of green
+Game 22 - has 16 number of blue
+Game 23 - has 15 number of green
+Game 24 - is Valid
+Game 25 - is Valid
+Game 26 - has 14 number of reds
+Game 27 - is Valid
+Game 28 - has 19 number of green
+Game 29 - has 15 number of blue
+Game 30 - is Valid
+Game 31 - is Valid
+Game 32 - has 13 number of reds
+Game 33 - is Valid
+Game 34 - is Valid
+Game 35 - is Valid
+Game 36 - has 18 number of blue
+Game 37 - is Valid
+Game 38 - is Valid
+Game 39 - is Valid
+Game 40 - has 13 number of reds
+Game 41 - has 17 number of blue
+Game 42 - is Valid
+Game 43 - has 14 number of reds
+Game 44 - is Valid
+Game 45 - has 17 number of reds
+Game 46 - is Valid
+Game 47 - has 15 number of blue
+Game 48 - is Valid
+Game 49 - has 18 number of green
+Game 50 - is Valid
+Game 51 - has 14 number of reds
+Game 52 - is Valid
+Game 53 - has 13 number of reds
+Game 54 - is Valid
+Game 55 - has 17 number of reds
+Game 56 - has 14 number of green
+Game 57 - is Valid
+Game 58 - has 17 number of green
+Game 59 - has 16 number of green
+Game 60 - has 17 number of green
+Game 61 - has 16 number of blue
+Game 62 - has 15 number of blue
+Game 63 - is Valid
+Game 64 - has 13 number of reds
+Game 65 - is Valid
+Game 66 - has 15 number of green
+Game 67 - is Valid
+Game 68 - has 16 number of blue
+Game 69 - has 14 number of reds
+Game 70 - is Valid
+Game 71 - is Valid
+Game 72 - is Valid
+Game 73 - has 13 number of reds
+Game 74 - has 17 number of reds
+Game 75 - has 16 number of blue
+Game 76 - has 13 number of reds
+Game 77 - is Valid
+Game 78 - has 13 number of reds
+Game 79 - is Valid
+Game 80 - has 18 number of green
+Game 81 - has 18 number of blue
+Game 82 - has 14 number of green
+Game 83 - is Valid
+Game 84 - is Valid
+Game 85 - has 13 number of reds
+Game 86 - is Valid
+Game 87 - has 13 number of reds
+Game 88 - has 15 number of green
+Game 89 - has 13 number of reds
+Game 90 - has 19 number of blue
+Game 91 - has 14 number of reds
+Game 92 - has 16 number of reds
+Game 93 - is Valid
+Game 94 - is Valid
+Game 95 - has 15 number of reds
+Game 96 - has 15 number of blue
+Game 97 - is Valid
+Game 98 - is Valid
+Game 99 - has 15 number of blue
+Game 100 - has 13 number of reds
+
+Valid Games Total
+2076
