@@ -1,6 +1,6 @@
 namespace Day2;
 
-public class Solution : ISolution
+public class SolutionA
 {
     private static readonly int MaxRed = 12;
     private static readonly int MaxGreen = 13;

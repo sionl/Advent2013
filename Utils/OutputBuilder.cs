@@ -39,6 +39,15 @@ public class OutputBuilder
         }
         builder.Append(Environment.NewLine);
         return this;
+
+    }
+
+    public void WriteToFile(string path)
+    {
+        using (StreamWriter writer = new StreamWriter(path))
+        {
+            writer.Write(builder.ToString());
+        }
     }
 
     public override string ToString()

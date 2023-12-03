@@ -1,103 +1,103 @@
-Game 1 - has 18 number of green
-Game 2 - is Valid
-Game 3 - has 15 number of reds
-Game 4 - is Valid
-Game 5 - is Valid
-Game 6 - is Valid
-Game 7 - has 14 number of green
-Game 8 - is Valid
-Game 9 - is Valid
-Game 10 - is Valid
-Game 11 - is Valid
-Game 12 - is Valid
-Game 13 - has 16 number of green
-Game 14 - is Valid
-Game 15 - is Valid
-Game 16 - has 16 number of blue
-Game 17 - is Valid
-Game 18 - is Valid
-Game 19 - has 16 number of reds
-Game 20 - has 15 number of green
-Game 21 - has 14 number of green
-Game 22 - has 16 number of blue
-Game 23 - has 15 number of green
-Game 24 - is Valid
-Game 25 - is Valid
-Game 26 - has 14 number of reds
-Game 27 - is Valid
-Game 28 - has 19 number of green
-Game 29 - has 15 number of blue
-Game 30 - is Valid
-Game 31 - is Valid
-Game 32 - has 13 number of reds
-Game 33 - is Valid
-Game 34 - is Valid
-Game 35 - is Valid
-Game 36 - has 18 number of blue
-Game 37 - is Valid
-Game 38 - is Valid
-Game 39 - is Valid
-Game 40 - has 13 number of reds
-Game 41 - has 17 number of blue
-Game 42 - is Valid
-Game 43 - has 14 number of reds
-Game 44 - is Valid
-Game 45 - has 17 number of reds
-Game 46 - is Valid
-Game 47 - has 15 number of blue
-Game 48 - is Valid
-Game 49 - has 18 number of green
-Game 50 - is Valid
-Game 51 - has 14 number of reds
-Game 52 - is Valid
-Game 53 - has 13 number of reds
-Game 54 - is Valid
-Game 55 - has 17 number of reds
-Game 56 - has 14 number of green
-Game 57 - is Valid
-Game 58 - has 17 number of green
-Game 59 - has 16 number of green
-Game 60 - has 17 number of green
-Game 61 - has 16 number of blue
-Game 62 - has 15 number of blue
-Game 63 - is Valid
-Game 64 - has 13 number of reds
-Game 65 - is Valid
-Game 66 - has 15 number of green
-Game 67 - is Valid
-Game 68 - has 16 number of blue
-Game 69 - has 14 number of reds
-Game 70 - is Valid
-Game 71 - is Valid
-Game 72 - is Valid
-Game 73 - has 13 number of reds
-Game 74 - has 17 number of reds
-Game 75 - has 16 number of blue
-Game 76 - has 13 number of reds
-Game 77 - is Valid
-Game 78 - has 13 number of reds
-Game 79 - is Valid
-Game 80 - has 18 number of green
-Game 81 - has 18 number of blue
-Game 82 - has 14 number of green
-Game 83 - is Valid
-Game 84 - is Valid
-Game 85 - has 13 number of reds
-Game 86 - is Valid
-Game 87 - has 13 number of reds
-Game 88 - has 15 number of green
-Game 89 - has 13 number of reds
-Game 90 - has 19 number of blue
-Game 91 - has 14 number of reds
-Game 92 - has 16 number of reds
-Game 93 - is Valid
-Game 94 - is Valid
-Game 95 - has 15 number of reds
-Game 96 - has 15 number of blue
-Game 97 - is Valid
-Game 98 - is Valid
-Game 99 - has 15 number of blue
-Game 100 - has 13 number of reds
+Game 1: 7 red, 18 green, 6 blue - Power: 756
+Game 2: 11 red, 12 green, 1 blue - Power: 132
+Game 3: 16 red, 3 green, 14 blue - Power: 672
+Game 4: 8 red, 4 green, 9 blue - Power: 288
+Game 5: 4 red, 13 green, 13 blue - Power: 676
+Game 6: 3 red, 6 green, 13 blue - Power: 234
+Game 7: 2 red, 14 green, 9 blue - Power: 252
+Game 8: 7 red, 11 green, 7 blue - Power: 539
+Game 9: 7 red, 1 green, 8 blue - Power: 56
+Game 10: 6 red, 6 green, 7 blue - Power: 252
+Game 11: 8 red, 8 green, 6 blue - Power: 384
+Game 12: 6 red, 10 green, 7 blue - Power: 420
+Game 13: 11 red, 16 green, 9 blue - Power: 1584
+Game 14: 6 red, 12 green, 11 blue - Power: 792
+Game 15: 8 red, 2 green, 10 blue - Power: 160
+Game 16: 4 red, 7 green, 16 blue - Power: 448
+Game 17: 2 red, 4 green, 6 blue - Power: 48
+Game 18: 11 red, 12 green, 9 blue - Power: 1188
+Game 19: 18 red, 10 green, 14 blue - Power: 2520
+Game 20: 11 red, 15 green, 3 blue - Power: 495
+Game 21: 6 red, 16 green, 13 blue - Power: 1248
+Game 22: 1 red, 1 green, 16 blue - Power: 16
+Game 23: 10 red, 20 green, 6 blue - Power: 1200
+Game 24: 8 red, 11 green, 13 blue - Power: 1144
+Game 25: 9 red, 9 green, 10 blue - Power: 810
+Game 26: 15 red, 5 green, 9 blue - Power: 675
+Game 27: 9 red, 5 green, 1 blue - Power: 45
+Game 28: 16 red, 19 green, 8 blue - Power: 2432
+Game 29: 17 red, 4 green, 15 blue - Power: 1020
+Game 30: 4 red, 2 green, 2 blue - Power: 16
+Game 31: 8 red, 3 green, 8 blue - Power: 192
+Game 32: 15 red, 12 green, 4 blue - Power: 720
+Game 33: 5 red, 9 green, 8 blue - Power: 360
+Game 34: 3 red, 12 green, 12 blue - Power: 432
+Game 35: 4 red, 8 green, 4 blue - Power: 128
+Game 36: 4 red, 9 green, 18 blue - Power: 648
+Game 37: 10 red, 4 green, 10 blue - Power: 400
+Game 38: 9 red, 6 green, 6 blue - Power: 324
+Game 39: 9 red, 3 green, 9 blue - Power: 243
+Game 40: 13 red, 8 green, 2 blue - Power: 208
+Game 41: 10 red, 10 green, 17 blue - Power: 1700
+Game 42: 9 red, 2 green, 9 blue - Power: 162
+Game 43: 16 red, 7 green, 7 blue - Power: 784
+Game 44: 8 red, 1 green, 9 blue - Power: 72
+Game 45: 17 red, 4 green, 14 blue - Power: 952
+Game 46: 10 red, 7 green, 4 blue - Power: 280
+Game 47: 16 red, 4 green, 15 blue - Power: 960
+Game 48: 9 red, 10 green, 1 blue - Power: 90
+Game 49: 18 red, 18 green, 11 blue - Power: 3564
+Game 50: 10 red, 7 green, 6 blue - Power: 420
+Game 51: 14 red, 10 green, 3 blue - Power: 420
+Game 52: 1 red, 8 green, 7 blue - Power: 56
+Game 53: 16 red, 9 green, 3 blue - Power: 432
+Game 54: 10 red, 1 green, 6 blue - Power: 60
+Game 55: 18 red, 4 green, 5 blue - Power: 360
+Game 56: 2 red, 14 green, 18 blue - Power: 504
+Game 57: 12 red, 4 green, 4 blue - Power: 192
+Game 58: 11 red, 17 green, 2 blue - Power: 374
+Game 59: 1 red, 16 green, 6 blue - Power: 96
+Game 60: 4 red, 17 green, 11 blue - Power: 748
+Game 61: 12 red, 10 green, 16 blue - Power: 1920
+Game 62: 10 red, 1 green, 15 blue - Power: 150
+Game 63: 2 red, 9 green, 4 blue - Power: 72
+Game 64: 13 red, 10 green, 2 blue - Power: 260
+Game 65: 7 red, 8 green, 8 blue - Power: 448
+Game 66: 11 red, 17 green, 3 blue - Power: 561
+Game 67: 2 red, 4 green, 12 blue - Power: 96
+Game 68: 16 red, 16 green, 16 blue - Power: 4096
+Game 69: 14 red, 18 green, 9 blue - Power: 2268
+Game 70: 6 red, 3 green, 12 blue - Power: 216
+Game 71: 6 red, 6 green, 11 blue - Power: 396
+Game 72: 5 red, 11 green, 9 blue - Power: 495
+Game 73: 13 red, 1 green, 9 blue - Power: 117
+Game 74: 19 red, 7 green, 3 blue - Power: 399
+Game 75: 4 red, 9 green, 18 blue - Power: 648
+Game 76: 13 red, 14 green, 10 blue - Power: 1820
+Game 77: 3 red, 2 green, 6 blue - Power: 36
+Game 78: 13 red, 15 green, 9 blue - Power: 1755
+Game 79: 6 red, 12 green, 7 blue - Power: 504
+Game 80: 7 red, 18 green, 5 blue - Power: 630
+Game 81: 10 red, 9 green, 18 blue - Power: 1620
+Game 82: 2 red, 14 green, 2 blue - Power: 56
+Game 83: 12 red, 7 green, 13 blue - Power: 1092
+Game 84: 2 red, 10 green, 5 blue - Power: 100
+Game 85: 13 red, 11 green, 6 blue - Power: 858
+Game 86: 10 red, 2 green, 2 blue - Power: 40
+Game 87: 13 red, 16 green, 16 blue - Power: 3328
+Game 88: 17 red, 15 green, 4 blue - Power: 1020
+Game 89: 13 red, 7 green, 7 blue - Power: 637
+Game 90: 19 red, 7 green, 19 blue - Power: 2527
+Game 91: 14 red, 2 green, 3 blue - Power: 84
+Game 92: 16 red, 3 green, 15 blue - Power: 720
+Game 93: 3 red, 12 green, 7 blue - Power: 252
+Game 94: 7 red, 12 green, 10 blue - Power: 840
+Game 95: 16 red, 13 green, 3 blue - Power: 624
+Game 96: 19 red, 8 green, 15 blue - Power: 2280
+Game 97: 5 red, 12 green, 4 blue - Power: 240
+Game 98: 9 red, 7 green, 11 blue - Power: 693
+Game 99: 3 red, 11 green, 18 blue - Power: 594
+Game 100: 15 red, 5 green, 1 blue - Power: 75
 
-Valid Games Total
-2076
+Total Power
+70950
