@@ -1,5 +1,3 @@
-using System.Xml.Schema;
-
 namespace Day3;
 
 public class Solution : ISolution
