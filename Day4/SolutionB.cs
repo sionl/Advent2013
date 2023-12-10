@@ -1,5 +1,3 @@
-using System.Globalization;
-
 namespace Day4;
 
 public class Solution : ISolution
@@ -15,14 +13,48 @@ public class Solution : ISolution
 
     public void Run()
     {
-        var cardSets = ReadWinners();
+        var cards = ReadWinners();
 
-        foreach (var card in cardSets.Values)
+        var totalCards = 0;
+        var iteration = 1;
+        var cardsReminding = cards.Count(x => x.Value.Count > 0);
+        while (cardsReminding > 0)
+        {
+            totalCards += cardsReminding;
+            ProcessResults(cards);
+            cardsReminding = cards.Count(x => x.Value.Count > 0);
+            iteration += 1;
+        }
+
+        foreach (var card in cards.Values)
         {
             builder.AppendLine($"{card.Number} - {card.Winners} - {card.Count}");
         }
 
+        builder.AppendNewLine();
+        builder.AppendLine($"Total Cards: {totalCards}");
+
         builder.WriteToFile("Day4\\Output.txt");
+    }
+
+    private Dictionary<int, Card> ProcessResults(Dictionary<int, Card> cards)
+    {
+        foreach (var card in cards.Values)
+        {
+            if (card.Count > 0)
+            {
+                card.Count -= 1;
+                if (card.Winners > 0)
+                {
+                    for (int i = 1; i <= card.Winners; i++)
+                    {
+                        var cardNumber = card.Number + i;
+                        cards[cardNumber].Count += 1;
+                    }
+                }
+            }
+        }
+        return cards;
     }
 
     private Dictionary<int, Card> ReadWinners()
@@ -48,9 +80,9 @@ public class Solution : ISolution
                     winners += 1;
                 }
             }
-            cardNumber += 1;
             var card = new Card() { Number = cardNumber, Winners = winners, Count = 1 };
             cardSets.Add(cardNumber, card);
+            cardNumber += 1;
         };
         return cardSets;
     }
